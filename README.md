@@ -15,9 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mirza sarim baig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mirza sarim baig" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mirzasarimbaig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mirza sarim baig" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/21059146" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21059146" height="30" width="40" /></a>
-<a href="https://fb.com/baig sahab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="baig sahab" height="30" width="40" /></a>
+<a href="https://fb.com/baigsahab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="baig sahab" height="30" width="40" /></a>
 <a href="https://instagram.com/baig_.sahab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="baig_.sahab" height="30" width="40" /></a>
 </p>
 
